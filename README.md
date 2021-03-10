@@ -1,2 +1,2 @@
 # ikt91
-kapcsolat próba
+kapcsolat próba1
